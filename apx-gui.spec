@@ -2,8 +2,8 @@
 %define datadir /usr/share
 
 Name:		apx-gui
-Version:	1.0.4
-Release:	%autorelease
+Version: 1.1.0
+Release: 1%{?dist}
 Summary:	A frontend in GTK 4 and Libadwaita for Apx
 
 License:	GPL-3.0-only
