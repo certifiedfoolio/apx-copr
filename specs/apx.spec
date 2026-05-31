@@ -3,7 +3,7 @@
 %define debug_package %{nil}
 
 Name:		apx
-Version: 3.1.0
+Version: 3.1.1
 Release: 1%{?dist}
 Summary:	Wrapper for multiple package managers based on distrobox
 
