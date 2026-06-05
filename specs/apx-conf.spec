@@ -2,8 +2,8 @@
 %define datadir /usr/share
 
 Name:           apx-conf
-Version:        1.0.0
-Release:        %autorelease
+Version: 1.1.0
+Release: 1%{?dist}
 Summary:        Default configs for apx
 
 License:        GPL-3.0-only
